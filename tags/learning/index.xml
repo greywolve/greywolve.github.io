@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Oliver Powell</title>
-    <link>http://www.opowell.com/post/index.xml</link>
-    <description>Recent content in Post-rsses on Oliver Powell</description>
+    <title>Oliver Powell</title>
+    <link>http://www.opowell.com/tags/learning/index.xml</link>
+    <description>Recent content on Oliver Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2016 13:58:45 +0200</lastBuildDate>
-    <atom:link href="http://www.opowell.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.opowell.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learning from those in the Arena</title>
@@ -61,51 +60,6 @@ Being an author, public speaker, or published academic tends to automatically
 attach an aura of expertise, but there is only one metric that actually matters
 in software - the amount of quality working code you that you ship to actual
 users on a regular basis. Learn from the doers, not the talkers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Quality: A new definition</title>
-      <link>http://www.opowell.com/post/software-quality/</link>
-      <pubDate>Wed, 16 Nov 2016 09:20:27 +0200</pubDate>
-      
-      <guid>http://www.opowell.com/post/software-quality/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Software does not run in a magic fairy aether powered by the fevered dreams of CS PhDs.&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash; &lt;cite&gt;Mike Acton&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Recently I&amp;rsquo;ve come to adopt a new definition for what I consider quality
-software. It&amp;rsquo;s really three primary things:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It solves the problem you set out to solve, and ideally, &lt;em&gt;ONLY&lt;/em&gt; that problem.&lt;/li&gt;
-&lt;li&gt;It does so, while &lt;em&gt;efficiently&lt;/em&gt; using the hardware underneath you.&lt;/li&gt;
-&lt;li&gt;It is written in a reasonable amount of time&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;1 forces you to intimately understand your problem. This is the key to not only
-coming up with a good solution, but also not creating more problems which you
-don&amp;rsquo;t actually need to solve. Mike Acton would say that you also need to
-understand the cost of solving your problem, in addition to the problem itself -
-otherwise you don&amp;rsquo;t actually understand the problem in the first place.&lt;/p&gt;
-
-&lt;p&gt;2 is less about saving money, or increasing revenue (from faster response
-times), than it is about simply not being wasteful of our planet&amp;rsquo;s resources
-(software doesn&amp;rsquo;t run on fresh air), or your user&amp;rsquo;s time. Over the last three
-decades computers have become an order of magnitude faster, but can we say
-that software today feels an order of magnitude more responsive?&lt;/p&gt;
-
-&lt;p&gt;3 is important for more reasons that simply needing to release on time. You
-have a finite amount of hours in your life, and a finite amount of projects that
-you can complete in your lifetime. Not to mention that you&amp;rsquo;d probably also want
-to have a life outside of code.&lt;/p&gt;
-
-&lt;p&gt;These goals are complementary in many ways. Caring about hours of your life
-spent coding, means that you ruthlessly have to cut out any anything that doesn&amp;rsquo;t
-actually solve your problem. This more than likely leads to better software
-performance and efficiency from less code bloat alone.&lt;/p&gt;
 </description>
     </item>
     
