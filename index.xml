@@ -6,8 +6,89 @@
     <description>Recent content on Oliver Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2016 13:58:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 09:36:51 +0200</lastBuildDate>
     <atom:link href="http://www.opowell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Casey Muratori on &#39;clean&#39; code</title>
+      <link>http://www.opowell.com/post/casey-muratori-on-clean-code/</link>
+      <pubDate>Tue, 29 Nov 2016 09:36:51 +0200</pubDate>
+      
+      <guid>http://www.opowell.com/post/casey-muratori-on-clean-code/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;And so, to the point that we care about how clean code is, we only care about
+that in so far as it has an affect on our end product.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &lt;cite&gt;Casey Muratori&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I used to care deeply about writing code that was as clean and elegant as
+possible. Functions should be short, and do one thing only. Don&amp;rsquo;t repeat
+yourself. Don&amp;rsquo;t have functions take more than three parameters. Functional
+programming has some rather elegant abstractions around manipulating lists of
+things too, and it was easy to feel proud of expressing a complex
+transformation, in a few lines of careful crafted maps, filters, and reduces.
+Yet somewhere is the background of my perceived &amp;lsquo;clean code&amp;rsquo; lies the actual
+problem I am trying to solve, buried under layers and layers of &amp;lsquo;beautiful&amp;rsquo;
+code.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If the way you look at code is that you think of it as messy or clean, that is a
+very bad habit in my opinion.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &lt;cite&gt;Casey Muratori&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Enter Casey Muratori (of &lt;a href=&#34;https://handmadehero.org/&#34;&gt;Handmade Hero&lt;/a&gt; fame) and his
+paradigm-shifting &lt;a href=&#34;https://youtu.be/Lzc3HcIgXis?t=1768&#34;&gt;rant&lt;/a&gt; on why seeing
+code as messy or clean is a really bad habit. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; His perspective was different and
+refreshing, and reminded me that code is merely a tool that we use to solve
+problems, and that our job is to solve those problems, not write &amp;lsquo;clean&amp;rsquo; code.
+I&amp;rsquo;d summarize his salient points as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thinking about how to make code not messy, whatever that means to you, is time
+you could have used to write code to figure out how to structure your
+program. You spent time that should have been spent thinking about the
+problem, on thinking about the code. In other words, you have wasted time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The end goal is to have good working code, not clean code. if you have the
+ugliest code in the world, but it runs efficiently, and has no bugs, then it
+didn&amp;rsquo;t matter right?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;There is no prescribed set of rules that govern what clean code looks like.
+Clean code is never about the code itself, it&amp;rsquo;s only ever about the usage or
+debugging process, and how the code affects that, in other words it must have
+a practical purpose, not just some aesthetic goal.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Code will naturally clean up over time, prematurely cleaning it is worse than
+wasting time, because it may lead you down wrong, time consuming paths. For
+example, segregating things too early, and then having to spend more time
+later tying them together again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Focus on the problem you want to solve, and once you have solved that problem
+then you can think about how to clean up the code. Again, the focus of
+cleaning the code is to increase code debug-ability, readability, reuse etc.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to gravitate towards the path of least resistance, and focus on things
+that are superficial, under the belief that they are more useful than they
+actually are. It&amp;rsquo;s far harder to focus on what actually matters.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;p&gt;I highly recommend watching the whole
+lecture
+&lt;a href=&#34;https://www.youtube.com/watch?v=Lzc3HcIgXis&#34;&gt;What Programming is Never About&lt;/a&gt;,
+by Abner Coimbre. It&amp;rsquo;s thanks to him that I actually heard Casey&amp;rsquo;s opinion
+on clean code.&lt;/p&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning from those in the Arena</title>
