@@ -6,8 +6,89 @@
     <description>Recent content on Oliver Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Nov 2016 09:36:51 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 07:48:23 +0200</lastBuildDate>
     <atom:link href="http://www.opowell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Talks that changed the way I think about programming</title>
+      <link>http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/</link>
+      <pubDate>Thu, 01 Dec 2016 07:48:23 +0200</pubDate>
+      
+      <guid>http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;The best teacher I had in graduate school spent the whole semester destroying
+any beliefs we had about computing. He was a real iconoclast. He happened to
+be a genius, so we took it. At the end of the course, we were free because
+we didn&amp;rsquo;t believe in anything. We had to learn everything, but then he
+destroyed it. He wanted us to understand what had been done, but he didn&amp;rsquo;t
+want us to believe in it.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &lt;cite&gt;Alan Kay&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here are some talks which have given me new insight into programming, and in
+particular what good programming is and isn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;h4 id=&#34;mike-acton-data-orientated-design-https-www-youtube-com-watch-v-rx0itvevjhc-t-1306s&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rX0ItVEVjHc&amp;amp;t=1306s&#34;&gt;Mike Acton: Data-orientated Design&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Setting the record straight on three big lies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software is the platform&lt;/li&gt;
+&lt;li&gt;Code should be designed around a model of the world&lt;/li&gt;
+&lt;li&gt;Code is more important than data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;jonathan-blow-how-to-program-independent-games-https-www-youtube-com-watch-v-jjdsp5n2ksm-t-2169s&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JjDsP5n2kSM&amp;amp;t=2169s&#34;&gt;Jonathan Blow: How to program independent games&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;One of the most important metrics to optimize for is hours of your life spent
+programming something. You have a finite amount of hours in your life after all,
+which you&amp;rsquo;d surely like to spend on other things too.&lt;/p&gt;
+
+&lt;h4 id=&#34;eksil-steenberg-how-i-program-in-c-https-www-youtube-com-watch-v-443unegrfom-t-21s&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=443UNeGrFoM&amp;amp;t=21s&#34;&gt;Eksil Steenberg: How I program in C&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In the beginning all you want is results, in the end, all you want is control&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;rich-hickey-hammock-driven-development-https-www-youtube-com-watch-v-f84n5ofozbc&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=f84n5oFoZBc&#34;&gt;Rich Hickey: Hammock Driven Development&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Your most powerful problem solver is your subconscious mind.&lt;/p&gt;
+
+&lt;h4 id=&#34;rich-hickey-simple-made-easy-https-www-youtube-com-watch-v-ri8tnmsozo0&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rI8tNMsozo0&#34;&gt;Rich Hickey: Simple Made Easy&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Simple is not the same as easy. Don&amp;rsquo;t confuse them.&lt;/p&gt;
+
+&lt;h4 id=&#34;brian-will-why-oop-is-bad-https-www-youtube-com-watch-v-qm1iue6iofm&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=QM1iUe6IofM&#34;&gt;Brian Will: Why OOP is Bad&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Almost everything that&amp;rsquo;s interesting in a non-trivial program are
+&amp;lsquo;cross-cutting&amp;rsquo; concerns. When faced with the reality of real word programs,
+promises of encapsulation tend to be broken, and object graphs quickly become
+tangled webs.&lt;/p&gt;
+
+&lt;h4 id=&#34;abner-coimbre-what-programming-is-never-about-https-www-youtube-com-watch-v-lzc3hcigxis&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Lzc3HcIgXis&#34;&gt;Abner Coimbre: What Programming is Never About&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;The emphasis of programming should be on solving problems, and not on the code itself.&lt;/p&gt;
+
+&lt;h4 id=&#34;scott-meyers-cpu-caches-and-why-you-care-https-www-youtube-com-watch-v-wdikqp4jbke-t-3842s&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WDIkqP4JbkE&amp;amp;t=3842s&#34;&gt;Scott Meyers - CPU Caches and Why You Care&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Iterating over a two dimensional array by row is much faster than by column.&lt;/p&gt;
+
+&lt;h4 id=&#34;jeff-and-casey-show-the-evils-of-non-native-programming-https-www-youtube-com-watch-v-tk50z-gupzi&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tK50z_gUpZI&#34;&gt;Jeff and Casey Show: The Evils of Non-native Programming&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;We always hear arguments for Garbage Collection, and Virtual Machines, but what about the counter arguments?&lt;/p&gt;
+
+&lt;h4 id=&#34;jeff-and-casey-s-guide-to-becoming-a-bigger-programmer-https-mollyrocket-com-jacs-jacs-0004-0016-html&#34;&gt;&lt;a href=&#34;https://mollyrocket.com/jacs/jacs_0004_0016.html&#34;&gt;Jeff and Casey&amp;rsquo;s Guide to Becoming a Bigger Programmer&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A strong emphasis on being a critical thinker, and making sure that the code practices that you adopt actually benefit you.&lt;/p&gt;
+
+&lt;h4 id=&#34;hadi-hariri-the-silver-bullet-syndrome-https-www-youtube-com-watch-v-3wyd6j3yjcs&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3wyd6J3yjcs&#34;&gt;Hadi Hariri: The Silver Bullet Syndrome&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A depressing tour of the software industry, and it&amp;rsquo;s quest for the silver bullet.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Casey Muratori on &#39;clean&#39; code</title>
