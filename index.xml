@@ -6,8 +6,101 @@
     <description>Recent content on Oliver Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2016 07:48:23 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 10:14:02 +0200</lastBuildDate>
     <atom:link href="http://www.opowell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;Best practices&#39; and the inverted U curve</title>
+      <link>http://www.opowell.com/post/best-practices-and-the-inverted-u-curve/</link>
+      <pubDate>Mon, 05 Dec 2016 10:14:02 +0200</pubDate>
+      
+      <guid>http://www.opowell.com/post/best-practices-and-the-inverted-u-curve/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;You should not have any special fondness for a particular weapon, or anything
+else, for that matter. Too much is the same as not enough. Without imitating
+anyone else, you should have as much weaponry as suits you.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &lt;cite&gt; Miyamoto Musashi, The Book of Five Rings &lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/post/best-practices-and-the-inverted-u-shaped-curve/01.png&#34; alt=&#34;Linear crime relationships&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Linear relationships between things are easy to understand. More of this, leads
+to more of that. The more severe the penalties for crime are, the less crime
+there is. Simple non-linear relationships, like diminishing returns, are not
+much of a stretch further - more of this, leads to more of that at the start,
+but eventually plateaus out. At the extreme end of penalties for crime, it no
+longer lowers crime, since crime is presumably as low as it can it can
+realistically be.&lt;/p&gt;
+
+&lt;p&gt;The problem is that in many real world relationships between things, there is a
+point of too much, where things not only plateau, but actively get worse - once
+a certain threshold is passed. And this is exactly what we tend to struggle
+with. You might think that one of the above relationships between crime and
+penalties make perfect sense; that it agrees with your intuition. But you&amp;rsquo;d
+actually be dead wrong.&lt;/p&gt;
+
+&lt;p&gt;Enter the inverted U shaped curve, introduced by
+author &lt;a href=&#34;https://en.wikipedia.org/wiki/Malcolm_Gladwell&#34;&gt;Malcolm Gladwell&lt;/a&gt;, in
+his
+book
+&lt;a href=&#34;http://www.goodreads.com/book/show/15751404-david-and-goliath&#34;&gt;David and Goliath: Underdogs, Misfits and the Art of Battling Giants&lt;/a&gt;.
+Research, according to him shows that the real relationship between crime and
+the severity of penalties imposed looks more like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/post/best-practices-and-the-inverted-u-shaped-curve/02.png&#34; alt=&#34;Crime U sharped curve&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So crime actually starts getting worse again beyond a certain point. Why?
+He &lt;a href=&#34;https://www.youtube.com/watch?v=7RGB78oREhM&#34;&gt;gives&lt;/a&gt; a synergy of reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Despite obtaining their money illegally, criminals are bread winners too, and
+putting them in jail means their dependents suffer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Children of a jailed parent are 3 times more likely go to jail themselves, and
+are two times likely to be depressed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A stable marriage is one of the best predictors of children in disadvantaged
+communities living productive lives. Lengthy jail time tends to destroy
+marriages.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Freshly released prisoners tend to be worse off after being in prison, and
+struggle to readjust back into normal community life, often turning back to
+crime.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Gladwell gives us the threshold point for communities; if more than two percent
+of a community are jailed, we tend to see crime start getting worse again.&lt;/p&gt;
+
+&lt;p&gt;In software development, we tend to see the same patterns. The simpler
+relationships between things dominate our thinking, and our reasoning. We like
+to follow best practices, often without thought, under the mistaken assumption
+that more usually leads to better, or at worst, that it couldn&amp;rsquo;t hurt. But what
+if the relationship between benefits and &amp;lsquo;best practice&amp;rsquo; usage actually looked
+more like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/post/best-practices-and-the-inverted-u-shaped-curve/03.png&#34; alt=&#34;Best practices U shaped curve&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Should code always be DRY? Should functions always be short? The more correct
+answer is - it depends. In the words
+of &lt;a href=&#34;https://twitter.com/won3d/status/753957308380639232&#34;&gt;Won Chun&lt;/a&gt;, &amp;ldquo;Be
+skeptical of blind dogma. Expertise is nuanced.&amp;rdquo; Expertise is finding the point
+on that curve where you derive enough of the benefits from following that &amp;lsquo;best
+practice&amp;rsquo; to make it worth your while.&lt;/p&gt;
+
+&lt;p&gt;The point of just enough is always dependent on the best practice itself, and
+the context where you apply it. More than likely you have a set of curves,
+depending on your problem. For some, you might find that you get most of the
+benefits from a little bit of use, for others, you might need to use it almost
+always.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/post/best-practices-and-the-inverted-u-shaped-curve/04.png&#34; alt=&#34;Best practices various U shaped curves&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Programming will always be a holistic pursuit, with many intertwining factors.
+Linear models of the world are nice, but they can also act as horse blinkers -
+blinding us from reality.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Talks that changed the way I think about programming</title>
@@ -252,7 +345,7 @@ Credit is appreciated but not required.&lt;/p&gt;
 &lt;p&gt;&amp;ndash; &lt;cite&gt;Zen Proverb&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/hs_art.jpg&#34; alt=&#34;Alt text&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.opowell.com/images/hs_art.jpg&#34; alt=&#34;Image of me doing a handstand&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I dislike writing about myself, because I feel it&amp;rsquo;s impossible to really
 summarize any human being into a few paragraphs, but I&amp;rsquo;ll try give you a tiny
