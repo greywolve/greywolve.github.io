@@ -6,8 +6,119 @@
     <description>Recent content on Oliver Powell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2016 17:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 08:31:59 +0200</lastBuildDate>
     <atom:link href="http://www.opowell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Myth of the Objective</title>
+      <link>http://www.opowell.com/post/myth-of-the-objective/</link>
+      <pubDate>Tue, 12 Sep 2017 08:31:59 +0200</pubDate>
+      
+      <guid>http://www.opowell.com/post/myth-of-the-objective/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A young but earnest Zen student approached his teacher, and asked the Zen
+Master: &lt;br&gt;
+&amp;ldquo;If I work very hard and diligent how long will it take for me to find Zen.&amp;rdquo; &lt;br&gt;
+The Master thought about this, then replied, &amp;ldquo;Ten years.&amp;rdquo;  &lt;br&gt;
+The student then said, &amp;ldquo;But what if I work very, very hard and really apply myself to learn fast
+&amp;ndash; How long then ?&amp;rdquo; &lt;br&gt;
+Replied the Master, &amp;ldquo;Well, twenty years.&amp;rdquo;  &lt;br&gt;
+&amp;ldquo;But, if I really, really work at it. How long then ?&amp;rdquo; asked the student. &lt;br&gt;
+&amp;ldquo;Thirty years,&amp;rdquo; replied the Master. &lt;br&gt;
+&amp;ldquo;But, I do not understand,&amp;rdquo; said the disappointed student. &lt;br&gt;
+&amp;ldquo;At each time that I say I will work harder, you say it will take me longer. Why do you
+say that ?&amp;rdquo; &lt;br&gt;
+Replied the Master,&amp;rdquo; When you have one eye on the goal, you only have one eye on the path.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; &lt;cite&gt; Zen Parable &lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a world obsessed with objectives, what can we learn from not having any? Much
+more than you think, according AI researcher, Kenneth Stanley.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/dXQPL9GooyI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Stanley&amp;rsquo;s findings come from an online application
+called &lt;a href=&#34;http://picbreeder.org/&#34;&gt;Picbreeder&lt;/a&gt;. Picbreeder allows users to &amp;lsquo;breed&amp;rsquo;
+an image by branching through variations of it. Each time a new parent gets
+selected, and the process repeats. Users can publish any interesting images they
+manage to find. Others in turn may use these as a starting point for further
+breeding. The experiment has produced a variety of interesting images; a
+remarkable feat given that the initial image was simple blob.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s fascinating is how these images get discovered - by not trying to
+discover them. Almost every interesting image had a parent which in no way
+resembled the final product. There was no way to tell it would end up
+producing that final image. You had to ride the goalless path, and see where
+you&amp;rsquo;d end up.&lt;/p&gt;
+
+&lt;p&gt;Many of the interesting images get produced in 70 to 90 generations. Peanuts for
+a computer to crunch through. Could traditional objective based machine learning
+reproduce these results? Stanley&amp;rsquo;s team tried their best. Even after 30000
+generations, each time the experiment was a dismal failure. The machine images
+looked nothing like the remarkable images discovered by humans in a fraction of
+the attempts.&lt;/p&gt;
+
+&lt;p&gt;A similar project to Picbreeder, the Living Image Project, relied on
+voting instead of branching. Users would vote for a the variation that they
+wanted to be the new parent, and the majority would decide. Yet despite far more
+activity, the images produced by the Living Image Project were boring in
+contrast to Picbreeder.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Some observations and notes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objectives can, ironically, be obstacles to innovation and creativity.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s amazing how rich the discoveries on a goalless path can be.&lt;/li&gt;
+&lt;li&gt;More amazing is that those discoveries wouldn&amp;rsquo;t have been found if the goal
+was to find them. One reason for this is deception in search. Sometimes you
+are on the right path, but it looks like a dead end. Other times it looks like
+the right path, but it&amp;rsquo;s actually a dead end.&lt;/li&gt;
+&lt;li&gt;Objective based search is about finding things. Novelty based search, or
+goalless search, is about collecting stepping stones. A stepping stone is
+something that has the potential to lead somewhere interesting. Collecting
+stepping stones amplifies your ability to get anywhere.&lt;/li&gt;
+&lt;li&gt;Objectives are prone to finding local maxima in complex search spaces. If you
+can see exactly where you need to go, then an objective probably makes sense. If
+you can&amp;rsquo;t then you&amp;rsquo;re probably going to hit a local maxima. Hitting the global
+maxima needs some adventuring.&lt;/li&gt;
+&lt;li&gt;Diversity in stepping stones are important. Many interesting images got found
+in Picbreeder by starting with other semi-interesting images. It is important
+that others are following a different path to you. They might be laying down
+the stepping stones you need to make your greatest discoveries.&lt;/li&gt;
+&lt;li&gt;The world has an obsession with objectivity, but following a goalless path is
+subjective. Interesting paths get taken by individuals based on intuition, and
+other instincts. We need to respect individual autonomy, and let humans do
+what they are good at - finding interesting stepping stones.&lt;/li&gt;
+&lt;li&gt;Visionaries don&amp;rsquo;t see many stepping stones ahead to get to their inventions
+and discoveries. They see the stones that have already been laid, and realise
+that the next leap forward is merely one jump away.&lt;/li&gt;
+&lt;li&gt;Vacuum tubes were used to make the first computers. If you had told vacuum
+tube makers in the 1800s, to rather work on the much more interesting problem
+of building a computer, we&amp;rsquo;d probably have no vacuum tubes or computers. The
+vacuum tube was a stepping stone.&lt;/li&gt;
+&lt;li&gt;Consensus and majority based decision making lead to sub optimal results.
+Diversity is important. As is considering alternative paths. This reminds me
+of Mark Twain&amp;rsquo;s quote, &amp;ldquo;The majority is always wrong, the minority is
+sometimes right&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Many natural processes don&amp;rsquo;t appear to be objective based. Natural evolution
+and human innovation are cases in point.&lt;/li&gt;
+&lt;li&gt;Funny meta point: Picbreeder was rejected by the National Science Foundation,
+because it was not clear what the project&amp;rsquo;s objective was. Stanley says the
+findings from it are his revenge. ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stanley&amp;rsquo;s findings have many general insights applicable to all areas of our
+world and lives. It has given me plenty to think about in my own. Perhaps this
+is something that Zen masters have always known and respected.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Books that have influenced my thinking</title>
